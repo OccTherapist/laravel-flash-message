@@ -6,6 +6,6 @@
 
 # Laravel Flash Message
 
-This package is no longer maintained.
+This is a fork of ubient/laravel-flash-message.
 
-While this package will remain available for the forseeable future, **this package WILL NOT be receiving any further (security) updates going forward**, with no replacement suggested.
+This package provides a simple way to display flash messages in your Laravel application. I will try to keep this package up to date with the latest Laravel version.
